@@ -20,8 +20,8 @@ The design team will focus on creating a cohesive athmophere in the game using [
 It is required that you have [git LFS](https://git-lfs.github.com) installed.
 
 ```bash
-git clone https://github.com/RPGeeks/curly-burly.git
-cd curly-burly
+git clone https://github.com/RPGeeks/ForgattenTales.git
+cd ForgattenTales
 git submodule update --init --recursive
 ```
 Create your own branch, chose a name descriptive for your work.
